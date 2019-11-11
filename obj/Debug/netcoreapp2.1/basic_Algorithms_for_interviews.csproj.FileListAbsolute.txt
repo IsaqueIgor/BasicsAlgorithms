@@ -1,0 +1,11 @@
+C:\Users\Isaque\Desktop\Side Projects\C# Aspnet\basic_Algorithms_for_interviews\basic_Algorithms_for_interviews\bin\Debug\netcoreapp2.1\basic_Algorithms_for_interviews.deps.json
+C:\Users\Isaque\Desktop\Side Projects\C# Aspnet\basic_Algorithms_for_interviews\basic_Algorithms_for_interviews\bin\Debug\netcoreapp2.1\basic_Algorithms_for_interviews.runtimeconfig.json
+C:\Users\Isaque\Desktop\Side Projects\C# Aspnet\basic_Algorithms_for_interviews\basic_Algorithms_for_interviews\bin\Debug\netcoreapp2.1\basic_Algorithms_for_interviews.runtimeconfig.dev.json
+C:\Users\Isaque\Desktop\Side Projects\C# Aspnet\basic_Algorithms_for_interviews\basic_Algorithms_for_interviews\bin\Debug\netcoreapp2.1\basic_Algorithms_for_interviews.dll
+C:\Users\Isaque\Desktop\Side Projects\C# Aspnet\basic_Algorithms_for_interviews\basic_Algorithms_for_interviews\bin\Debug\netcoreapp2.1\basic_Algorithms_for_interviews.pdb
+C:\Users\Isaque\Desktop\Side Projects\C# Aspnet\basic_Algorithms_for_interviews\basic_Algorithms_for_interviews\obj\Debug\netcoreapp2.1\basic_Algorithms_for_interviews.csprojAssemblyReference.cache
+C:\Users\Isaque\Desktop\Side Projects\C# Aspnet\basic_Algorithms_for_interviews\basic_Algorithms_for_interviews\obj\Debug\netcoreapp2.1\basic_Algorithms_for_interviews.csproj.CoreCompileInputs.cache
+C:\Users\Isaque\Desktop\Side Projects\C# Aspnet\basic_Algorithms_for_interviews\basic_Algorithms_for_interviews\obj\Debug\netcoreapp2.1\basic_Algorithms_for_interviews.AssemblyInfoInputs.cache
+C:\Users\Isaque\Desktop\Side Projects\C# Aspnet\basic_Algorithms_for_interviews\basic_Algorithms_for_interviews\obj\Debug\netcoreapp2.1\basic_Algorithms_for_interviews.AssemblyInfo.cs
+C:\Users\Isaque\Desktop\Side Projects\C# Aspnet\basic_Algorithms_for_interviews\basic_Algorithms_for_interviews\obj\Debug\netcoreapp2.1\basic_Algorithms_for_interviews.dll
+C:\Users\Isaque\Desktop\Side Projects\C# Aspnet\basic_Algorithms_for_interviews\basic_Algorithms_for_interviews\obj\Debug\netcoreapp2.1\basic_Algorithms_for_interviews.pdb
